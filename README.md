@@ -3,8 +3,8 @@ ClayLeee/ClayLeee is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-## Hi, I am Clay!
-I am a front-end engineer.    
+## Hiiiiii, I am Clay!
+A front-end engineer.    
 Currently working on developing a DevOps platform.  
 Welcome to exchange web technology and fun things with me!!!  
 
