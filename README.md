@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Hiiiiii, I am Clay!
-A front-end engineer.    
+A front-end developer.    
 Currently working on developing a DevOps platform.  
 Welcome to exchange web technology and fun things with me!!!  
 
