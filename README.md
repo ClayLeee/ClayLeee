@@ -8,4 +8,5 @@ A front-end developer.
 Currently working on developing a DevOps platform.  
 Welcome to exchange web technology and fun things with me!!!  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClayLeee&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ClayLeee&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
