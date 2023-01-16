@@ -4,8 +4,8 @@ You can click the Preview link to take a look at your changes.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClayLeee&show_icons=true&theme=transparent)
 --->
 
-<h1 align="center">Hi 👋, I'm Clay</h1>
-<h3 align="center">A front-end developer</h3>
+<h1 align="left">Hi 👋, I'm Clay</h1>
+<h3 align="left">A front-end developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clayleee" alt="clayleee" /></a> </p>
 
