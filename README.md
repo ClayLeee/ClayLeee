@@ -7,10 +7,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="left">Hi 👋, I'm Clay</h1>
 <h3 align="left">A front-end developer</h3>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=clayleee" alt="clayleee" />
-  </a>
+<p align="left">
   <a href="https://open.spotify.com/user/11120065520?si=0cf279c628f1449e">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="spotify logo" />
   </a>
@@ -51,6 +48,12 @@ You can click the Preview link to take a look at your changes.
   <img src="" alt="" />
 </p>
 
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=clayleee" alt="clayleee" />
+  </a>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClayLeee&show_icons=true&theme=transparent)
+</p>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clayleee&" alt="clayleee" />
 </p>
