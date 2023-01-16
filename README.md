@@ -59,5 +59,5 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clayleee&" alt="clayleee" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clayleee&theme=gruvbox" alt="clayleee" />
 </p>
