@@ -53,7 +53,6 @@ You can click the Preview link to take a look at your changes.
     <img src="https://github-profile-trophy.vercel.app/?username=clayleee" alt="clayleee" />
   </a>
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClayLeee&show_icons=true&theme=transparent)
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clayleee&" alt="clayleee" />
 </p>
