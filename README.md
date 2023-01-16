@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Languages</h3>
 <p align="left">
-  <a href="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript logo" />
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clayleee&" alt="clayleee" /></p>
