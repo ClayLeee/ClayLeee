@@ -11,8 +11,8 @@ You can click the Preview link to take a look at your changes.
   </span>
 </h1>
 
-- 👽️ I'm a front-end developer**
-- 🔭 I’m currently working on **a DevOps platform**
+- 👽️ I'm a **front-end developer**
+- 🔭 I’m currently working on a **DevOps platform**
 - 💬 Ask me about **web technology and fun things**
 
 <h3 align="left">
@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
   <a href="http://gitlab-dev3.iiidevops.org/noitseuq">
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab logo" />
   </a>
-  <a href="https://discord.com/channels/@me">
+  <a href="https://discord.com/channels/Clay#8243">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord logo" />
   </a>
   <a href="https://open.spotify.com/user/11120065520?si=0cf279c628f1449e">
