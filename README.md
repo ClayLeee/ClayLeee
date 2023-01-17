@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 </h1>
 
 <span>
-  <h3 align="left">Connect with me:</h3>
+  <h4 align="left">Connect with me:</h4>
   <a href="https://open.spotify.com/user/11120065520?si=0cf279c628f1449e">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="spotify logo" />
   </a>
