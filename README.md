@@ -10,14 +10,15 @@ You can click the Preview link to take a look at your changes.
     <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="hello emoji" height="30" width="30" />
   </span>
 </h1>
-<h3 align="left">A front-end developer</h3>
 
-<p align="left">
+<span>
+  <h3 align="left">Connect with me:</h3>
   <a href="https://open.spotify.com/user/11120065520?si=0cf279c628f1449e">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="spotify logo" />
   </a>
-</p>
+</span>
 
+- 👽️ I'm a front-end developer**
 - 🔭 I’m currently working on **a DevOps platform**
 - 💬 Ask me about **web technology and fun things**
 
