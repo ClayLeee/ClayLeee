@@ -20,6 +20,9 @@ You can click the Preview link to take a look at your changes.
   <a href="http://gitlab-dev3.iiidevops.org/noitseuq">
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab logo" />
   </a>
+  <a href="https://line.me/ti/p/1yM3UW9LSB">
+    <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" alt="line logo" />
+  </a>
   <a href="discordapp.com/users/868491847754981417">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord logo" />
   </a>
