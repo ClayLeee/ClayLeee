@@ -65,6 +65,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" alt="gitkraken logo" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman logo" />
   <img src="https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white" alt="rancher logo" />
+  <img src="https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white" alt="linode logo" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion logo" />
   <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white" alt="obsidian logo" />
   <img src="https://img.shields.io/badge/Inkdrop-7A78D7?style=for-the-badge&logo=inkdrop&logoColor=white" alt="inkdrop logo" />
