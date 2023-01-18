@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://line.me/ti/p/1yM3UW9LSB">
     <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" alt="line logo" />
   </a>
-  <a href="discordapp.com/users/868491847754981417">
+  <a href="https://discordapp.com/users/868491847754981417">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord logo" />
   </a>
   <a href="https://open.spotify.com/user/11120065520?si=0cf279c628f1449e">
