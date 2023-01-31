@@ -84,7 +84,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown logo" />
 </p>
 
-<h4 align="left">Github Stats</h4>
+<h3 align="left">Github Stats</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=clayleee&theme=gruvbox" alt="clayleee" />
 </p>
