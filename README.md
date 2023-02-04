@@ -11,10 +11,6 @@ You can click the Preview link to take a look at your changes.
   </span>
 </h1>
 
-<h3 align="left">
-  <span>In order for mankind to meet aliens as soon as possible, I work hard to code.</span>
-</h3>
-
 - 👽️ I'm a **front-end developer**
 - 🔭 I’m currently working on a **DevOps platform**
 - 💬 Ask me about **web technology and fun things**
