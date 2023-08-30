@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">
   <span>Connect with me:</span>
-  <a href="http://gitlab-dev3.iiidevops.org/noitseuq">
+  <a href="https://gitlab.dev7.iiidevops.org/noitseuq">
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab logo" />
   </a>
   <a href="https://line.me/ti/p/1yM3UW9LSB">
